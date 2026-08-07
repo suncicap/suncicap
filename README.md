@@ -1,4 +1,4 @@
-# Hi, I'm Sunci
+# Hi, I'm Suncica
 
 ## Cybersecurity Student | Aspiring Threat Intelligence Analyst
 
