@@ -12,14 +12,14 @@ My background bridges two evolving fields:
 
 ## Focus Areas
 
-🔎 Cyber Threat Intelligence  
-🦠 Malware Analysis  
-🤖 AI Security & AI-Driven Threats  
-🎯 Threat Hunting  
-🕵️ OSINT & Threat Actor Research  
-📌 MITRE ATT&CK Framework  
-🛡️ Security Monitoring & Incident Response  
-☁️ Cloud & Enterprise Security  
+Cyber Threat Intelligence  
+Malware Analysis  
+AI Security & AI-Driven Threats  
+Threat Hunting  
+OSINT & Threat Actor Research  
+MITRE ATT&CK Framework  
+Security Monitoring & Incident Response  
+Cloud & Enterprise Security  
 
 ## Technical Foundations
 
