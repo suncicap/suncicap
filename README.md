@@ -1,117 +1,85 @@
-# Hi, I'm Suncica
+Hi, I'm Suncica
 
-## Cybersecurity Student | Aspiring Threat Intelligence Analyst
+Cybersecurity Student | Aspiring Threat Intelligence Analyst
 
-I am transitioning from VFX and AI-driven digital production into cybersecurity, combining experience in complex technical pipelines, creative technology, and international production environments with a growing specialization in Cyber Threat Intelligence.
+I'm transitioning from international VFX and AI-driven technology production into cybersecurity, bringing extensive experience in complex technical environments, analytical problem-solving and multidisciplinary collaboration.
 
-Currently studying cybersecurity in Berlin, with a focus on threat intelligence, malware analysis, security monitoring, and AI security.
+Currently studying cybersecurity in Berlin, with a particular interest in Cyber Threat Intelligence, OSINT, vulnerability research, attacker behaviour and AI security.
 
-My background bridges two evolving fields:
-- Digital content and AI-driven character technology
-- Cybersecurity and threat intelligence
+Areas of Interest
 
-## Focus Areas
+Cyber Threat Intelligence and OSINT
 
-Cyber Threat Intelligence  
-Malware Analysis  
-AI Security & AI-Driven Threats  
-Threat Hunting  
-OSINT & Threat Actor Research  
-MITRE ATT&CK Framework  
-Security Monitoring & Incident Response  
-Cloud & Enterprise Security  
+Threat Actor Research and MITRE ATT&CK
 
-## Technical Foundations
+Vulnerability Intelligence and CVE Analysis
 
-Currently developing hands-on skills in:
+Malware Analysis and Threat Hunting
 
-- Windows and Linux security fundamentals
-- Networking and traffic analysis
-- Web technologies, APIs, authentication, and databases
-- Cryptography 
-- Vulnerability analysis and exploitation concepts
-- Security monitoring and digital forensics
-- Python automation for cybersecurity
-- Cloud security fundamentals
-- AI systems, LLM concepts, and AI security
+AI Security and Emerging Cyber Threats
 
-## Cybersecurity Studies
+Security Monitoring and Incident Response
 
-My cybersecurity training covers:
+Technical Foundations
 
-### Foundations
-- Operating Systems
-- Networking
-- Applications and Web Technologies
-- AI Fundamentals and LLMs
-- AI Security and Emerging AI Risks
-- Cryptography and Data Representation
+Developing practical skills across:
 
-### Security Operations
-- Reconnaissance and Social Engineering
-- Web Security
-- Vulnerabilities and Exploitation
-- Security Monitoring
-- Digital Forensics
-- Threat Detection
+Linux and Windows security
 
-### Modern Enterprise Security
-- Cloud Security
-- DevSecOps Fundamentals
-- Identity and Access Management
-- Enterprise Security Architecture
+Networking and TCP/IP
 
-## Current Projects
+Web technologies, APIs and authentication
 
-### Threat Intelligence Research
-- Threat actor analysis
-- Malware campaign research
-- Vulnerability intelligence
-- MITRE ATT&CK mapping
-- IOC analysis
+Vulnerability analysis and exploitation concepts
 
-### Malware Analysis
-- Static and behavioral analysis
-- Malware investigation reports
-- Detection opportunities
-- Threat infrastructure research
+Wireshark and network traffic analysis
 
-### AI Security Exploration
-- AI-assisted threat intelligence workflows
-- LLM security concepts
-- AI-driven cyber threats
-- Security implications of emerging AI technologies
+Bash and Python for security workflows
 
-### Security Automation
-- Python tools for security workflows
-- Data collection and analysis automation
-- Intelligence enrichment workflows
+Cloud and enterprise security fundamentals
 
-## Previous Experience
+Selected Projects
 
-Before cybersecurity, I worked in VFX production and contributed to advanced digital content pipelines, including AI-driven digital human character development at Epic Games.
+Custom TCP Application-Layer Protocol
 
-This experience gave me a strong foundation in:
+A custom network protocol implemented using Bash and ncat, featuring socket communication, protocol parsing, Wireshark traffic analysis and a custom Lua dissector.
 
-- managing complex technical projects
-- collaborating with multidisciplinary teams
-- understanding emerging technologies
-- communicating complex concepts clearly
-- working with production-critical workflows
+View project
 
-I am now applying these skills to cybersecurity analysis and threat intelligence.
+Linux Server Hardening & Adversary Simulation
 
-## Currently Learning
+A practical project exploring corporate Linux server hardening and adversary simulation.
 
-- Threat Intelligence Platforms (TIP)
-- Malware analysis workflows
-- SIEM technologies
-- Detection engineering
-- Cloud security
-- AI security
-- Threat hunting methodologies
+View project
 
----
+Cybersecurity Training
 
-📍 Berlin  
-🎯 Goal: Threat Intelligence Analyst
+Currently completing a professional cybersecurity programme at Cybersteps in Berlin, covering networking, operating systems, web security, threat intelligence, OSINT, security operations, cloud security, digital forensics and incident response.
+
+Practical learning through TryHackMe, independent research and hands-on exercises.
+
+My TryHackMe profile
+
+Previous Experience
+
+Before cybersecurity, I worked in international VFX production and emerging technology, including AI-driven digital human development at Epic Games.
+
+My experience includes managing complex technical projects, coordinating specialised teams, understanding emerging technologies and communicating complex technical concepts to clients and stakeholders.
+
+Current Learning & Exploration
+
+Threat intelligence research and OSINT methodologies
+
+MITRE ATT&CK and adversary behaviour
+
+Vulnerability and threat research
+
+Malware analysis workflows
+
+SIEM and security monitoring
+
+AI security and AI-assisted intelligence workflows
+
+📍 Berlin, Germany
+
+🎯 Career direction: Cyber Threat Intelligence
