@@ -58,6 +58,30 @@ My experience includes managing complex technical projects, coordinating special
 - Threat intelligence research and OSINT methodologies
 - MITRE ATT&CK and adversary behaviour
 - Vulnerability and threat research
+
+- TryHackMe | Practical Cybersecurity Training
+
+Top 3% global ranking | Level 10 | 1,847 events in the past year
+
+Hands-on cybersecurity learning covering offensive and defensive security, OSINT, vulnerability research, web security and security operations.
+
+Selected achievements and training:
+
+OhSINT – OSINT investigation
+
+SOC Apprentice – Security Operations
+
+Defensive Toolsmith
+
+First Alert Closed – SOC investigation
+
+ZeroLogon – Windows vulnerability exploitation
+
+Securing AI Systems – AI security and attack-surface analysis
+
+Tools: Wireshark, Burp Suite, Splunk, Dirbuster, PhishTool, Linux and Windows.
+
+View my TryHackMe profile: https://tryhackme.com/p/suncicape
 - Malware analysis workflows
 - SIEM and security monitoring
 - AI security and AI-assisted intelligence workflows
